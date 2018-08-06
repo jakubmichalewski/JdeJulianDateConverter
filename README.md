@@ -1,4 +1,4 @@
-### Simple integer extension method for JDE date to DateTime conversion
+### Simple C# integer extension method for JDE date to DateTime conversion
 
 ##### Usage
 
